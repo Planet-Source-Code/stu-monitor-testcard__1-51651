@@ -1,0 +1,26 @@
+
+Firstly, I am an Engineer not a programmer (even though PSC think I should be 'Advanced' by now!) I learnt VB just to do this project as, at the time, I couldn't find a programme to do the job. I had a lot of help and my thanks go to the people in the credits. Apologises to those people whose bits of code I have borrowed without a name to credit.
+
+*********************
+
+Half way through this project I changed to XP from '98SE. One problem I have still not sorted is the question of distribution. Various ways have been tried but '98 now comes up with error "NOT A FAT32 PROGRAM". Has anybody got a foolproof way of distribution over all platforms? I uploaded an article about .msi but I am not a lover of it! Should I be looking to do two versions, FAT32 and NTFS ? Your thoughts/ideas on the subject would be most welcome.
+
+*********************
+
+Before you attempt to load this project, 'MultiButtonControl.oc_' needs to be renamed and registered.
+Rename to 'MultiButtonControl.ocx' before you attempt to register it. 
+
+(If you do not know how to do this there are small projects to be found on PSC which can do it for you. Try doing a search for RegSvr.)
+
+*********************
+
+You should check your monitor on a regular basis (especially Moire patterning as it can give you headaches!) Hope you find this prog useful.
+
+*********************
+
+Feel free to comment and vote if you think it warrants it.
+
+Stu Tyler
+Feb 2004
+
+
